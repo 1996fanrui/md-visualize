@@ -1,0 +1,13 @@
+[project]
+name = "md-visualize"
+version = "0.1.0"
+requires-python = ">=3.10"
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-mock",
+    "lxml",
+    "Pillow",
+    "playwright>=1.58.0",
+]
