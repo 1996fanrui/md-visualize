@@ -208,6 +208,8 @@ __marimo__/
 generated/
 logs/
 .venv/
+node_modules/
+.vite/
 CLAUDE.md
 AGENTS.md
 .agents/

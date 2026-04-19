@@ -1,0 +1,20 @@
+{
+  "theme": "default",
+  "look": "neo",
+  "themeVariables": {
+    "fontFamily": "Yuppy SC, sans-serif",
+    "lineColor": "#9ca3af",
+    "textColor": "#9ca3af",
+    "titleColor": "#9ca3af",
+    "clusterBkg": "rgba(255,255,255,0.04)",
+    "clusterBorder": "#6b7280",
+    "edgeLabelBackground": "rgba(31,41,55,0.85)",
+    "tertiaryColor": "rgba(255,255,255,0.04)",
+    "tertiaryBorderColor": "#6b7280"
+  },
+  "themeCSS": ".node rect, .node polygon, .node circle, .node ellipse, .node path { rx: 12; ry: 12; } .cluster rect { rx: 12; ry: 12; }",
+  "flowchart": {
+    "padding": 25,
+    "htmlLabels": true
+  }
+}
