@@ -1,0 +1,9 @@
+{
+  "component": "AveCard",
+  "props": {
+    "icon": "🔧",
+    "title": "Sample Component",
+    "bg": "rgba(245, 243, 240, 0.75)"
+  },
+  "slot": "This is a sample card for testing the render pipeline."
+}
