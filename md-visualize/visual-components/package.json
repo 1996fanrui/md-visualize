@@ -1,0 +1,12 @@
+{
+  "name": "md-visualize-visual-components",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vue visual components for md-visualize screenshot rendering",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.5",
+    "vite": "^5.4.21",
+    "vue": "^3.5.32"
+  }
+}
